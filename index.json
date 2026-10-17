@@ -1,0 +1,11 @@
+{
+  "org": "vespa-engine",
+  "repo": "pyvespa",
+  "versions": [
+    {
+      "commit": "236e87cbe1bc831ca809d4d418ddd4c7a85d5dd5",
+      "tag": "",
+      "parsed_at": "2026-10-17T07:41:50.302531+00:00"
+    }
+  ]
+}
